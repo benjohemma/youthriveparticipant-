@@ -1,0 +1,28 @@
+nav {
+    color: navajowhite;
+    background-color:yellow;
+    font-size: 40px;
+    text-align: left;
+    -webkit-text-fill-color: white;
+    column-gap: expanded;
+    lighting-color: rgb(141, 12, 3);
+    
+}
+h1 {
+    text-align: center;
+    color: navy;
+}
+body {
+    background-color: rgb(233, 224, 235);
+    text-align: justify;
+    text-wrap: wrap;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant-ligatures: contextual;
+    font-size: large;
+      
+}
+.form{
+    text-align: center;
+    box-sizing: border-box;
+}
